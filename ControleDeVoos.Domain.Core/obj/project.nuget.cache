@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4IqvlYly3XBw+nhND5YiwPs1qLZoRD0w4UZ6Dz9RhfiMOyPCI6CRGukHsW2xkhL24A/IobNht2uY0K6rz4wfpg==",
+  "dgSpecHash": "AR6ycSFTQ30VaaCJAPxMtI0LPpa05bjigWUvdRQohfNgwOqk4zzhNLRNvci8AT1N7D7tReUyqXNJCqyGkYepyg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Domain.Core\\ControleDeVoos.Domain.Core.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\victo\\.nuget\\packages\\fluentvalidation\\9.5.1\\fluentvalidation.9.5.1.nupkg.sha512",
-    "C:\\Users\\victo\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.5.1\\fluentvalidation.aspnetcore.9.5.1.nupkg.sha512",
-    "C:\\Users\\victo\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.5.1\\fluentvalidation.dependencyinjectionextensions.9.5.1.nupkg.sha512",
-    "C:\\Users\\victo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\victo\\Source\\Repos\\VictorTI2018\\ControleDeVoos\\ControleDeVoos.Domain.Core\\ControleDeVoos.Domain.Core.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

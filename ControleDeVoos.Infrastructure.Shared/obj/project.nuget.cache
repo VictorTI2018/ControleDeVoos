@@ -1,15 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "oMYLFiey4/GSfEf0fkXd015C6N7UDELpn4AZuUoHjsXo1ThsoPl+f357JhStOKXyyPGaKkPmwISRnDUp9LOMzw==",
+  "dgSpecHash": "kNejkPEdpNKjuxwRxE8/CBVg1IQyp23xABQPH8z3TJJW2Wzqc6whnqDZ2l6geJb5geQuC8lYm4hrjBZwwTl96A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Infrastructure.Shared\\ControleDeVoos.Infrastructure.Shared.csproj",
+  "projectFilePath": "C:\\Users\\victo\\Source\\Repos\\VictorTI2018\\ControleDeVoos\\ControleDeVoos.Infrastructure.Shared\\ControleDeVoos.Infrastructure.Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\victo\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
-    "C:\\Users\\victo\\.nuget\\packages\\fluentvalidation\\9.5.1\\fluentvalidation.9.5.1.nupkg.sha512",
-    "C:\\Users\\victo\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.5.1\\fluentvalidation.aspnetcore.9.5.1.nupkg.sha512",
-    "C:\\Users\\victo\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.5.1\\fluentvalidation.dependencyinjectionextensions.9.5.1.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
-    "C:\\Users\\victo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
   ],
   "logs": []

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Domain\\ControleDeVoos.Domain.csproj": {}
+    "C:\\Users\\victo\\Source\\Repos\\VictorTI2018\\ControleDeVoos\\ControleDeVoos.Domain\\ControleDeVoos.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Domain\\ControleDeVoos.Domain.csproj": {
+    "C:\\Users\\victo\\Source\\Repos\\VictorTI2018\\ControleDeVoos\\ControleDeVoos.Domain\\ControleDeVoos.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Domain\\ControleDeVoos.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\victo\\Source\\Repos\\VictorTI2018\\ControleDeVoos\\ControleDeVoos.Domain\\ControleDeVoos.Domain.csproj",
         "projectName": "ControleDeVoos.Domain",
-        "projectPath": "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Domain\\ControleDeVoos.Domain.csproj",
+        "projectPath": "C:\\Users\\victo\\Source\\Repos\\VictorTI2018\\ControleDeVoos\\ControleDeVoos.Domain\\ControleDeVoos.Domain.csproj",
         "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Domain\\obj\\",
+        "outputPath": "C:\\Users\\victo\\Source\\Repos\\VictorTI2018\\ControleDeVoos\\ControleDeVoos.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,12 +39,6 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "dependencies": {
-            "FluentValidation.AspNetCore": {
-              "target": "Package",
-              "version": "[9.5.1, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -56,9 +50,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

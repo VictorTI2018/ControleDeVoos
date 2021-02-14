@@ -1,12 +1,9 @@
 {
   "version": 2,
-  "dgSpecHash": "StCdj0yYPJFYmsKTQ/esatllJ6CxB+bk0bPaLmLX97gVwBthlGlhGQiwHFnEojzq0fCWL0irBTuuebgKkQlsSg==",
+  "dgSpecHash": "A2HJhBkOkQD9G6m0shL/u8r1RQBcv73r5ag2aDh8pYZj8PTQ1wyjxXpxX0OKWXCp2k+GCQqAmMlolps0PdOFOw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Infrastructure.Data\\ControleDeVoos.Infrastructure.Data.csproj",
+  "projectFilePath": "C:\\Users\\victo\\Source\\Repos\\VictorTI2018\\ControleDeVoos\\ControleDeVoos.Infrastructure.Data\\ControleDeVoos.Infrastructure.Data.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\victo\\.nuget\\packages\\fluentvalidation\\9.5.1\\fluentvalidation.9.5.1.nupkg.sha512",
-    "C:\\Users\\victo\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.5.1\\fluentvalidation.aspnetcore.9.5.1.nupkg.sha512",
-    "C:\\Users\\victo\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.5.1\\fluentvalidation.dependencyinjectionextensions.9.5.1.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
