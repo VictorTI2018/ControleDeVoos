@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ControleDeVoos.Domain/1.0.0": {
+        "runtime": {
+          "ControleDeVoos.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ControleDeVoos.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

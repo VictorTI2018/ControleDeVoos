@@ -1,0 +1,9 @@
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\ControleDeVoos\ControleDeVoos.Domain\bin\Debug\netcoreapp3.1\ControleDeVoos.Domain.deps.json
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\ControleDeVoos\ControleDeVoos.Domain\bin\Debug\netcoreapp3.1\ControleDeVoos.Domain.dll
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\ControleDeVoos\ControleDeVoos.Domain\bin\Debug\netcoreapp3.1\ControleDeVoos.Domain.pdb
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\ControleDeVoos\ControleDeVoos.Domain\obj\Debug\netcoreapp3.1\ControleDeVoos.Domain.csprojAssemblyReference.cache
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\ControleDeVoos\ControleDeVoos.Domain\obj\Debug\netcoreapp3.1\ControleDeVoos.Domain.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\ControleDeVoos\ControleDeVoos.Domain\obj\Debug\netcoreapp3.1\ControleDeVoos.Domain.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\ControleDeVoos\ControleDeVoos.Domain\obj\Debug\netcoreapp3.1\ControleDeVoos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\ControleDeVoos\ControleDeVoos.Domain\obj\Debug\netcoreapp3.1\ControleDeVoos.Domain.dll
+C:\Users\victo\OneDrive\Documentos\Victor\Projetos\ControleDeVoos\ControleDeVoos.Domain\obj\Debug\netcoreapp3.1\ControleDeVoos.Domain.pdb
