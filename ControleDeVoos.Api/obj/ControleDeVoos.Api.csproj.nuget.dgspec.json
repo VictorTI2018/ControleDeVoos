@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Api\\ControleDeVoos.Api.csproj": {}
+    "C:\\Users\\victo\\Source\\Repos\\VictorTI2018\\ControleDeVoos\\ControleDeVoos.Api\\ControleDeVoos.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Api\\ControleDeVoos.Api.csproj": {
+    "C:\\Users\\victo\\Source\\Repos\\VictorTI2018\\ControleDeVoos\\ControleDeVoos.Api\\ControleDeVoos.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Api\\ControleDeVoos.Api.csproj",
+        "projectUniqueName": "C:\\Users\\victo\\Source\\Repos\\VictorTI2018\\ControleDeVoos\\ControleDeVoos.Api\\ControleDeVoos.Api.csproj",
         "projectName": "ControleDeVoos.Api",
-        "projectPath": "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Api\\ControleDeVoos.Api.csproj",
+        "projectPath": "C:\\Users\\victo\\Source\\Repos\\VictorTI2018\\ControleDeVoos\\ControleDeVoos.Api\\ControleDeVoos.Api.csproj",
         "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Api\\obj\\",
+        "outputPath": "C:\\Users\\victo\\Source\\Repos\\VictorTI2018\\ControleDeVoos\\ControleDeVoos.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,20 +28,17 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Domain\\ControleDeVoos.Domain.csproj": {
-                "projectPath": "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Domain\\ControleDeVoos.Domain.csproj"
+              "C:\\Users\\victo\\Source\\Repos\\VictorTI2018\\ControleDeVoos\\ControleDeVoos.Domain\\ControleDeVoos.Domain.csproj": {
+                "projectPath": "C:\\Users\\victo\\Source\\Repos\\VictorTI2018\\ControleDeVoos\\ControleDeVoos.Domain\\ControleDeVoos.Domain.csproj"
               },
-              "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Infrastructure.CrossCutting\\ControleDeVoos.Infrastructure.CrossCutting.csproj": {
-                "projectPath": "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Infrastructure.CrossCutting\\ControleDeVoos.Infrastructure.CrossCutting.csproj"
+              "C:\\Users\\victo\\Source\\Repos\\VictorTI2018\\ControleDeVoos\\ControleDeVoos.Infrastructure.Data\\ControleDeVoos.Infrastructure.Data.csproj": {
+                "projectPath": "C:\\Users\\victo\\Source\\Repos\\VictorTI2018\\ControleDeVoos\\ControleDeVoos.Infrastructure.Data\\ControleDeVoos.Infrastructure.Data.csproj"
               },
-              "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Infrastructure.Data\\ControleDeVoos.Infrastructure.Data.csproj": {
-                "projectPath": "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Infrastructure.Data\\ControleDeVoos.Infrastructure.Data.csproj"
+              "C:\\Users\\victo\\Source\\Repos\\VictorTI2018\\ControleDeVoos\\ControleDeVoos.Infrastructure.Shared\\ControleDeVoos.Infrastructure.Shared.csproj": {
+                "projectPath": "C:\\Users\\victo\\Source\\Repos\\VictorTI2018\\ControleDeVoos\\ControleDeVoos.Infrastructure.Shared\\ControleDeVoos.Infrastructure.Shared.csproj"
               },
-              "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Infrastructure.Shared\\ControleDeVoos.Infrastructure.Shared.csproj": {
-                "projectPath": "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Infrastructure.Shared\\ControleDeVoos.Infrastructure.Shared.csproj"
-              },
-              "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Services\\ControleDeVoos.Services.csproj": {
-                "projectPath": "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Services\\ControleDeVoos.Services.csproj"
+              "C:\\Users\\victo\\Source\\Repos\\VictorTI2018\\ControleDeVoos\\ControleDeVoos.Services\\ControleDeVoos.Services.csproj": {
+                "projectPath": "C:\\Users\\victo\\Source\\Repos\\VictorTI2018\\ControleDeVoos\\ControleDeVoos.Services\\ControleDeVoos.Services.csproj"
               }
             }
           }
@@ -59,10 +56,6 @@
             "AutoMapper": {
               "target": "Package",
               "version": "[10.1.1, )"
-            },
-            "FluentValidation.AspNetCore": {
-              "target": "Package",
-              "version": "[9.5.1, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
@@ -91,14 +84,14 @@
         }
       }
     },
-    "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Domain.Core\\ControleDeVoos.Domain.Core.csproj": {
+    "C:\\Users\\victo\\Source\\Repos\\VictorTI2018\\ControleDeVoos\\ControleDeVoos.Domain.Core\\ControleDeVoos.Domain.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Domain.Core\\ControleDeVoos.Domain.Core.csproj",
+        "projectUniqueName": "C:\\Users\\victo\\Source\\Repos\\VictorTI2018\\ControleDeVoos\\ControleDeVoos.Domain.Core\\ControleDeVoos.Domain.Core.csproj",
         "projectName": "ControleDeVoos.Domain.Core",
-        "projectPath": "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Domain.Core\\ControleDeVoos.Domain.Core.csproj",
+        "projectPath": "C:\\Users\\victo\\Source\\Repos\\VictorTI2018\\ControleDeVoos\\ControleDeVoos.Domain.Core\\ControleDeVoos.Domain.Core.csproj",
         "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Domain.Core\\obj\\",
+        "outputPath": "C:\\Users\\victo\\Source\\Repos\\VictorTI2018\\ControleDeVoos\\ControleDeVoos.Domain.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -115,8 +108,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Domain\\ControleDeVoos.Domain.csproj": {
-                "projectPath": "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Domain\\ControleDeVoos.Domain.csproj"
+              "C:\\Users\\victo\\Source\\Repos\\VictorTI2018\\ControleDeVoos\\ControleDeVoos.Domain\\ControleDeVoos.Domain.csproj": {
+                "projectPath": "C:\\Users\\victo\\Source\\Repos\\VictorTI2018\\ControleDeVoos\\ControleDeVoos.Domain\\ControleDeVoos.Domain.csproj"
               }
             }
           }
@@ -141,9 +134,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
@@ -152,14 +142,14 @@
         }
       }
     },
-    "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Domain\\ControleDeVoos.Domain.csproj": {
+    "C:\\Users\\victo\\Source\\Repos\\VictorTI2018\\ControleDeVoos\\ControleDeVoos.Domain\\ControleDeVoos.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Domain\\ControleDeVoos.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\victo\\Source\\Repos\\VictorTI2018\\ControleDeVoos\\ControleDeVoos.Domain\\ControleDeVoos.Domain.csproj",
         "projectName": "ControleDeVoos.Domain",
-        "projectPath": "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Domain\\ControleDeVoos.Domain.csproj",
+        "projectPath": "C:\\Users\\victo\\Source\\Repos\\VictorTI2018\\ControleDeVoos\\ControleDeVoos.Domain\\ControleDeVoos.Domain.csproj",
         "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Domain\\obj\\",
+        "outputPath": "C:\\Users\\victo\\Source\\Repos\\VictorTI2018\\ControleDeVoos\\ControleDeVoos.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -187,12 +177,6 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "dependencies": {
-            "FluentValidation.AspNetCore": {
-              "target": "Package",
-              "version": "[9.5.1, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -204,9 +188,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
@@ -215,87 +196,14 @@
         }
       }
     },
-    "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Infrastructure.CrossCutting\\ControleDeVoos.Infrastructure.CrossCutting.csproj": {
+    "C:\\Users\\victo\\Source\\Repos\\VictorTI2018\\ControleDeVoos\\ControleDeVoos.Infrastructure.Data\\ControleDeVoos.Infrastructure.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Infrastructure.CrossCutting\\ControleDeVoos.Infrastructure.CrossCutting.csproj",
-        "projectName": "ControleDeVoos.Infrastructure.CrossCutting",
-        "projectPath": "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Infrastructure.CrossCutting\\ControleDeVoos.Infrastructure.CrossCutting.csproj",
-        "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Infrastructure.CrossCutting\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "netcoreapp3.1"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
-            "projectReferences": {
-              "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Domain.Core\\ControleDeVoos.Domain.Core.csproj": {
-                "projectPath": "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Domain.Core\\ControleDeVoos.Domain.Core.csproj"
-              },
-              "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Infrastructure.Data\\ControleDeVoos.Infrastructure.Data.csproj": {
-                "projectPath": "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Infrastructure.Data\\ControleDeVoos.Infrastructure.Data.csproj"
-              },
-              "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Services\\ControleDeVoos.Services.csproj": {
-                "projectPath": "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Services\\ControleDeVoos.Services.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
-          "dependencies": {
-            "Microsoft.Extensions.DependencyInjection.Abstractions": {
-              "target": "Package",
-              "version": "[5.0.0, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Infrastructure.Data\\ControleDeVoos.Infrastructure.Data.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Infrastructure.Data\\ControleDeVoos.Infrastructure.Data.csproj",
+        "projectUniqueName": "C:\\Users\\victo\\Source\\Repos\\VictorTI2018\\ControleDeVoos\\ControleDeVoos.Infrastructure.Data\\ControleDeVoos.Infrastructure.Data.csproj",
         "projectName": "ControleDeVoos.Infrastructure.Data",
-        "projectPath": "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Infrastructure.Data\\ControleDeVoos.Infrastructure.Data.csproj",
+        "projectPath": "C:\\Users\\victo\\Source\\Repos\\VictorTI2018\\ControleDeVoos\\ControleDeVoos.Infrastructure.Data\\ControleDeVoos.Infrastructure.Data.csproj",
         "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Infrastructure.Data\\obj\\",
+        "outputPath": "C:\\Users\\victo\\Source\\Repos\\VictorTI2018\\ControleDeVoos\\ControleDeVoos.Infrastructure.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -312,11 +220,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Domain.Core\\ControleDeVoos.Domain.Core.csproj": {
-                "projectPath": "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Domain.Core\\ControleDeVoos.Domain.Core.csproj"
-              },
-              "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Domain\\ControleDeVoos.Domain.csproj": {
-                "projectPath": "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Domain\\ControleDeVoos.Domain.csproj"
+              "C:\\Users\\victo\\Source\\Repos\\VictorTI2018\\ControleDeVoos\\ControleDeVoos.Domain\\ControleDeVoos.Domain.csproj": {
+                "projectPath": "C:\\Users\\victo\\Source\\Repos\\VictorTI2018\\ControleDeVoos\\ControleDeVoos.Domain\\ControleDeVoos.Domain.csproj"
               }
             }
           }
@@ -357,9 +262,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
@@ -368,14 +270,14 @@
         }
       }
     },
-    "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Infrastructure.Shared\\ControleDeVoos.Infrastructure.Shared.csproj": {
+    "C:\\Users\\victo\\Source\\Repos\\VictorTI2018\\ControleDeVoos\\ControleDeVoos.Infrastructure.Shared\\ControleDeVoos.Infrastructure.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Infrastructure.Shared\\ControleDeVoos.Infrastructure.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\victo\\Source\\Repos\\VictorTI2018\\ControleDeVoos\\ControleDeVoos.Infrastructure.Shared\\ControleDeVoos.Infrastructure.Shared.csproj",
         "projectName": "ControleDeVoos.Infrastructure.Shared",
-        "projectPath": "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Infrastructure.Shared\\ControleDeVoos.Infrastructure.Shared.csproj",
+        "projectPath": "C:\\Users\\victo\\Source\\Repos\\VictorTI2018\\ControleDeVoos\\ControleDeVoos.Infrastructure.Shared\\ControleDeVoos.Infrastructure.Shared.csproj",
         "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Infrastructure.Shared\\obj\\",
+        "outputPath": "C:\\Users\\victo\\Source\\Repos\\VictorTI2018\\ControleDeVoos\\ControleDeVoos.Infrastructure.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -391,11 +293,7 @@
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
-            "projectReferences": {
-              "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Domain\\ControleDeVoos.Domain.csproj": {
-                "projectPath": "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Domain\\ControleDeVoos.Domain.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
@@ -424,9 +322,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
@@ -435,14 +330,14 @@
         }
       }
     },
-    "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Services\\ControleDeVoos.Services.csproj": {
+    "C:\\Users\\victo\\Source\\Repos\\VictorTI2018\\ControleDeVoos\\ControleDeVoos.Services\\ControleDeVoos.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Services\\ControleDeVoos.Services.csproj",
+        "projectUniqueName": "C:\\Users\\victo\\Source\\Repos\\VictorTI2018\\ControleDeVoos\\ControleDeVoos.Services\\ControleDeVoos.Services.csproj",
         "projectName": "ControleDeVoos.Services",
-        "projectPath": "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Services\\ControleDeVoos.Services.csproj",
+        "projectPath": "C:\\Users\\victo\\Source\\Repos\\VictorTI2018\\ControleDeVoos\\ControleDeVoos.Services\\ControleDeVoos.Services.csproj",
         "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Services\\obj\\",
+        "outputPath": "C:\\Users\\victo\\Source\\Repos\\VictorTI2018\\ControleDeVoos\\ControleDeVoos.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -459,11 +354,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Domain.Core\\ControleDeVoos.Domain.Core.csproj": {
-                "projectPath": "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Domain.Core\\ControleDeVoos.Domain.Core.csproj"
+              "C:\\Users\\victo\\Source\\Repos\\VictorTI2018\\ControleDeVoos\\ControleDeVoos.Domain.Core\\ControleDeVoos.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\victo\\Source\\Repos\\VictorTI2018\\ControleDeVoos\\ControleDeVoos.Domain.Core\\ControleDeVoos.Domain.Core.csproj"
               },
-              "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Domain\\ControleDeVoos.Domain.csproj": {
-                "projectPath": "C:\\Users\\victo\\OneDrive\\Documentos\\Victor\\Projetos\\ControleDeVoos\\ControleDeVoos.Domain\\ControleDeVoos.Domain.csproj"
+              "C:\\Users\\victo\\Source\\Repos\\VictorTI2018\\ControleDeVoos\\ControleDeVoos.Domain\\ControleDeVoos.Domain.csproj": {
+                "projectPath": "C:\\Users\\victo\\Source\\Repos\\VictorTI2018\\ControleDeVoos\\ControleDeVoos.Domain\\ControleDeVoos.Domain.csproj"
               }
             }
           }
@@ -477,12 +372,6 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "dependencies": {
-            "AutoMapper": {
-              "target": "Package",
-              "version": "[10.1.1, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -494,9 +383,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
